@@ -121,23 +121,29 @@ _How to setup this project_
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<div align="center>"
-![Coming soon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PdVX3nEb2PR33QH1k2ecDyruL9xDKcWg9HzcYn9x&s)
+<div align="center">
+<img src="https://media2.giphy.com/media/UYpelo7WbjZQg0dDQY/200.gif" width="500" height="200" />
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap<br>**P0 features**
+- [ ] Dashboard and landing page
+- [ ] Sections(Tech/Non-tech)
+- [ ] Add new section and note
+- [ ] Page(heading/Description/Bookmarks/Texts etc)  
+- [x] Rest APIs for CRUD oparation on Notes<br>**P1 features**
+- [x] User Authentication
+- [ ] Option to add Audio/Video
+- [ ] Reminder(intigration with google calendar)
+- [ ] Recent works section<br>**P2 features**
+- [ ] To-Do list
+- [ ] Templates
+- [ ] Rewards
+- [ ] Leader Boards
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
