@@ -16,6 +16,7 @@
     <br />
     <br />
     <a href="https://daisy-crafter-3ba.notion.site/Product-Manifesto-34df07c46b504f2686be99246e622542"> Project Manifesto </a>
+    .
     <a href="#">Live</a>
     ·
     <a href="https://github.com/sahilarora02/SkillValley-Project/issues">Report Issues</a>
